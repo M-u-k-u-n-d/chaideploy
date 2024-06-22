@@ -1,0 +1,17 @@
+{
+  "name": "episode3",
+  "version": "1.0.0",
+  "description": "this is episode 3 of chai and backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukund Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "type": "module"
+}
