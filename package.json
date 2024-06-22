@@ -1,7 +1,7 @@
 {
-  "name": "episode3",
+  "name": "episode2",
   "version": "1.0.0",
-  "description": "this is episode 3 of chai and backend",
+  "description": "this is episode 2 of chai and backend",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
